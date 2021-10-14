@@ -1,0 +1,13 @@
+C:\Users\Miro\source\repos\CoinChangeCalculator\CoinChangeCalculator\bin\Debug\netcoreapp3.1\CoinChangeCalculator.exe
+C:\Users\Miro\source\repos\CoinChangeCalculator\CoinChangeCalculator\bin\Debug\netcoreapp3.1\CoinChangeCalculator.deps.json
+C:\Users\Miro\source\repos\CoinChangeCalculator\CoinChangeCalculator\bin\Debug\netcoreapp3.1\CoinChangeCalculator.runtimeconfig.json
+C:\Users\Miro\source\repos\CoinChangeCalculator\CoinChangeCalculator\bin\Debug\netcoreapp3.1\CoinChangeCalculator.runtimeconfig.dev.json
+C:\Users\Miro\source\repos\CoinChangeCalculator\CoinChangeCalculator\bin\Debug\netcoreapp3.1\CoinChangeCalculator.dll
+C:\Users\Miro\source\repos\CoinChangeCalculator\CoinChangeCalculator\bin\Debug\netcoreapp3.1\CoinChangeCalculator.pdb
+C:\Users\Miro\source\repos\CoinChangeCalculator\CoinChangeCalculator\obj\Debug\netcoreapp3.1\CoinChangeCalculator.csproj.AssemblyReference.cache
+C:\Users\Miro\source\repos\CoinChangeCalculator\CoinChangeCalculator\obj\Debug\netcoreapp3.1\CoinChangeCalculator.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\CoinChangeCalculator\CoinChangeCalculator\obj\Debug\netcoreapp3.1\CoinChangeCalculator.AssemblyInfo.cs
+C:\Users\Miro\source\repos\CoinChangeCalculator\CoinChangeCalculator\obj\Debug\netcoreapp3.1\CoinChangeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\CoinChangeCalculator\CoinChangeCalculator\obj\Debug\netcoreapp3.1\CoinChangeCalculator.dll
+C:\Users\Miro\source\repos\CoinChangeCalculator\CoinChangeCalculator\obj\Debug\netcoreapp3.1\CoinChangeCalculator.pdb
+C:\Users\Miro\source\repos\CoinChangeCalculator\CoinChangeCalculator\obj\Debug\netcoreapp3.1\CoinChangeCalculator.genruntimeconfig.cache
