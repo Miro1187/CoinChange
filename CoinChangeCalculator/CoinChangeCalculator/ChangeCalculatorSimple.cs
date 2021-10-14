@@ -6,6 +6,8 @@ namespace CoinChangeCalculator
 {
     public class ChangeCalculatorSimple : IChangeCalculator
     {
+        //This version uses simpler algortim but it also uses pre-set denominations so it does not fullfill the requirements of the task however it can work with any money amount.
+
         public List<int> denominations = new List<int>()
         {
             50,
